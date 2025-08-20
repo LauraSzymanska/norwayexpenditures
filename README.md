@@ -1,5 +1,5 @@
 # Norway expenditures dashboard in Excel 🇳🇴
-This repository contains a simple exploratory dashboard built in Excel.
+This repository contains a dashboard built in Excel.
 The project is part of my portfolio with the goal of combining pivot-based analytics and storytelling.
 
 ## Overview
